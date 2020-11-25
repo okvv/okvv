@@ -1,6 +1,8 @@
-### Hi there 👋
+[![](https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif)](#)
 
 <!--
+### Hi there 👋
+
 **okvv/okvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
