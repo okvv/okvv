@@ -9,6 +9,10 @@
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mixed ltr rtl in LaTeX](https://www.okun.pro/latex/vscode/hebrew/template/openu/2017/10/10/mixed-ltr-rtl-in-latex/)
+- [Writing LaTeX like a coder](https://www.okun.pro/latex/vscode/hebrew/2017/03/01/writing-latex-like-a-coder/)
+- [Init Blog](https://www.okun.pro/init/start/2017/02/19/init-blog/)
+- [בדיקה](https://www.okun.pro/%D7%91%D7%93%D7%99%D7%A7%D7%94/2000/01/01/%D7%91%D7%93%D7%99%D7%A7%D7%94/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
