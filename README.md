@@ -1,15 +1,17 @@
 
-### Hi there 👋
+# Hi there 👋
 
-- ⚡ Fun fact: NCIS fan!
+- ⚡ Fun fact: I'm a NCIS fan!
 
 <p align="center">
   <img src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif">
 </p>
 
-<!--
-### Hi there 👋
+## 📩 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<!--
 **okvv/okvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
